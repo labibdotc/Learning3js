@@ -3,4 +3,4 @@
 
  # Projects in this repository
  ## FirstScene:
- ![alt text](https://github.com/labibdotc/LearningReact/blob/main/businessCard/deliverable.png?raw=true)
+ ![alt text](https://github.com/labibdotc/LearningThreeJS/blob/main/firstScene/scene.png?raw=true)
