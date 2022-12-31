@@ -6,4 +6,4 @@
   ## FirstScene:
   ![alt text](https://github.com/labibdotc/LearningThreeJS/blob/main/firstScene/scene.png?raw=true)
   ## transformedScene:
-  ![alt text](https://github.com/labibdotc/LearningThreeJS/blob/main/transformedScene/scene.png?raw=true)
+  ![alt text](https://github.com/labibdotc/LearningThreeJS/blob/main/transformedScene/scene2.png?raw=true)
