@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+html,
+body {
+    overflow: hidden;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+}
+.webgl{
+    position: fixed;
+    top:0;
+    left:0;
+    outline:none;
+}
+.load--msg{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0px 20px;
+    
+    
+}
+.footer{
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    bottom:0;
+    right: 0;
+    padding: 20px;
+    position: absolute;
+}
+
+/*# sourceMappingURL=main.css.map*/
