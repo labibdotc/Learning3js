@@ -31,6 +31,11 @@
   <video src="https://user-images.githubusercontent.com/98433990/211002025-2815c23a-bc40-4504-abf7-2889527383e0.mov" controls="controls" style="max-width: 730px;">
   </video>
 
+  ## #10 Lights:
+<img width="1167" alt="Screen Shot 2023-01-09 at 8 18 35 PM" src="https://user-images.githubusercontent.com/98433990/211465370-d649f7f8-2c2a-4e6c-81a0-7e7851df1bad.png">
+<img width="1140" alt="Screen Shot 2023-01-09 at 8 32 52 PM" src="https://user-images.githubusercontent.com/98433990/211465404-3d989fa5-bd7c-42db-affc-50b26481b18a.png">
+<img width="816" alt="Screen%20Shot%202023-01-09%20at%2011 08 24%20PM" src="https://user-images.githubusercontent.com/98433990/211465490-97216851-6fd6-4e24-8643-334e699a7a9a.png">
+<img width="1060" alt="Screen%20Shot%202023-01-09%20at%2011 16 01%20PM" src="https://user-images.githubusercontent.com/98433990/211465562-8133426b-21f0-4101-8485-783ee5145386.png">
 
 
 
