@@ -55,4 +55,10 @@ https://user-images.githubusercontent.com/98433990/213359838-2e984458-db5d-4682-
 https://user-images.githubusercontent.com/98433990/213360812-8a380d18-5981-414c-8c29-ff8c61882cca.mov
 
 
+  ## #14 personal website project:
+
+https://user-images.githubusercontent.com/98433990/213361815-0ead1f50-88d0-4669-baa5-aa7747ffdf4f.mp4
+
+
+
 
